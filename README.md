@@ -1,4 +1,4 @@
-### Data Analysis and Insights for Page Optimization
+## Data Analysis and Insights for Page Optimization
 
 # Overview
 
@@ -14,7 +14,7 @@ User Acquisition: Analyzing user acquisition channels to identify the most effec
 Traffic Acquisition: Understanding traffic sources and optimizing them for better performance.
 Engagement Metrics: Analyzing user engagement metrics to improve user retention.
 Conversion Analysis: Studying conversion rates and optimizing conversion funnels.
-Google Ads Campaigns: Evaluating the performance of Google Ads campaigns for app installations and engagement.
+Google Ads Campaigns: Evaluating the performance of Google Ads campaigns for app installations and engagement.\
 
 # Recommendations
 
